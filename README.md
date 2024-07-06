@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haren97
-- 👀 I’m interested in programming 
+- 👀 I’m interested in application development
 - Twitter: @haren-khater
 
 <!---
